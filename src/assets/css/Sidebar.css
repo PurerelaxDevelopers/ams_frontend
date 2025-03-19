@@ -1,0 +1,23 @@
+.bgColor
+{
+    background: linear-gradient(160deg, #ffffff, #618cd8);
+}
+
+.nav-item
+{
+    padding: 5px;
+    margin-bottom: 10px;
+    border-bottom: 1px solid #618cd8;
+    transition: 0.5s ease-in;
+}
+
+.nav-item:hover
+{
+    background-color: #618cd8;
+    border-radius: 10px;
+}
+
+.nav-text
+{
+    color: black;
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1860d6d.css",
+    "main.js": "/static/js/main.1d9cab88.js",
+    "static/media/searching2.jpg": "/static/media/searching2.382b479ccab8d819c821.jpg",
+    "static/media/nodata1.svg": "/static/media/nodata1.5efbb17c6f50abd8b8c090c7d6094cb2.svg",
+    "static/media/thikse-logo.png": "/static/media/thikse-logo.d2e23cfc3f7a1ca480ac.png",
+    "static/media/no_register.svg": "/static/media/no_register.b9117b33c6ae0319a21908d732152a06.svg",
+    "static/media/b3.svg": "/static/media/b3.834d5304831c4e38692b.svg",
+    "index.html": "/index.html",
+    "main.e1860d6d.css.map": "/static/css/main.e1860d6d.css.map",
+    "main.1d9cab88.js.map": "/static/js/main.1d9cab88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e1860d6d.css",
+    "static/js/main.1d9cab88.js"
+  ]
+}
